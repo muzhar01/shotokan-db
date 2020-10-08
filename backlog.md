@@ -7,3 +7,4 @@
 - [ ] Mieti tarvittavat UI-elementit
 - [ ] Päätä käytettävä front end -teknologia
 - [ ] Luo testeille kansio
+- [ ] Luo ensimmäinen testi 
