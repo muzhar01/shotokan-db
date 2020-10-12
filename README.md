@@ -9,6 +9,8 @@ Tässä projektissa luodaan tietokanta, joka sisältää kaikki Shotokan-tyylisu
 
 Lisäksi luodaan käyttöliittymä, jonka avulla käyttäjä voi hakea:
 
-- tiettyä tekniikkaa ja sen kuvausta (suoritustapaa)
+- tiettyä tekniikkaa suomeksi tai japaniksi tai tekniikan kuvausta (suoritustapaa) suomeksi
 - tietoa, missä katoissa kyseinen tekniikka esiintyy
-- tietoa, missä vyökoevaatimuksissa kyseinen tekniikka esiintyy ensimmäisen kerran
+- tietoa, missä [Seitokain](http://seitokai.eu/) vyökoevaatimuksissa kyseinen tekniikka esiintyy ensimmäisen kerran
+
+Projekti aloitettu 7.10.2020
