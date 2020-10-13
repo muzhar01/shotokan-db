@@ -7,8 +7,11 @@ Tässä projektissa luodaan tietokanta, joka sisältää kaikki Shotokan-tyylisu
 - lyönnit
 - iskut
 - potkut
+- liikkuminen
+- yhdistelmätekniikat
 - katat
 - kumite
+- murskaus
 
 Lisäksi luodaan käyttöliittymä, jonka avulla käyttäjä voi hakea tietokannasta:
 
