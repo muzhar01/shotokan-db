@@ -30,11 +30,12 @@ Esimerkki vyökoevaatimuksesta, jonka tietoja voi hakea käyttöliittymällä:
 
 Projekti aloitettu 7.10.2020, tehty noin 15 min per päivä. Välitavoitteet:
 
-- Tietokanta suunniteltu x.x.xxxx työkalulla [dbdiagram.io](https://dbdiagram.io/home)
-- Tietokanta luotu
+- Tietokanta [kuva tiedostona](kuvat/) valmis 15.10.2020
+- Tietokanta luotu skriptinä
+- Tietokantaan lisätty tarvittava data skriptinä
 - Tietokanta testattu
-- Tarvittavat tietokantakyselyt luotu
 - Käyttötapaukset kirjoitettu
+- Käyttötapauksia varten tarvittavat tietokantakyselyt luotu
 - Käyttöliittymä suunniteltu
 - Käyttöliittymä toteutettu
 - Käyttöliittymä testattu
