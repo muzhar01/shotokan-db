@@ -23,8 +23,8 @@ Lisäksi luodaan käyttöliittymä, jonka avulla käyttäjä voi hakea tietokann
 
 Esimerkki vyökoevaatimuksesta, jonka tietoja voi hakea käyttöliittymällä:
 
-![Vyökoevaatimus](/kuvat/esim1.PNG "Vyökoevaatimus")
-![Vyökoevaatimus](/kuvat/esim2.PNG "Vyökoevaatimus")
+![Vyökoevaatimus](kuvat/esim1.png "Vyökoevaatimus")
+![Vyökoevaatimus](kuvat/esim2.png "Vyökoevaatimus")
 
 ## Välitavoitteet
 
