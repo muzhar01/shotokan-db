@@ -24,7 +24,7 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Goshin dachi', 1, 1);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gedan barai', 1, 2);     -- Tekniikat - Laji 2 torjunnat
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Age uke', 1, 2);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Soto Uke', 1, 2);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Soto uke', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Uchi uke', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Shuto uke chudan', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Shuto uke jodan', 1, 2);
@@ -59,31 +59,33 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Keito uke', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Kakuto uke', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Hente gedan shuto uke', 1, 2);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi Tsuki', 1, 3);     -- Tekniikat - Laji 3 lyönnit
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi Tsuki Jodan', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi Tsuki Chudan', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi Tsuki Gedan', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon Oi Tsuki Jodan', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon Oi Tsuki Chudan', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku Tsuki Chudan', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku Tsuki Jodan', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon Oi Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gohon Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gohon Oi Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Kizami Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mawashi Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Ura Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Tate Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Uchi Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Age Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Yama Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Fura Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Hasami Tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Morote Tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi tsuki', 1, 3);     -- Tekniikat - Laji 3 lyönnit
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi tsuki jodan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi tsuki chudan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi tsuki gedan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku tsuki chudan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku tsuki jodan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon oi tsuki jodan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon oi tsuki chudan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sanbon oi tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gohon tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gohon oi tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gohon oi tsuki jodan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gohon oi tsuki chudan', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Kizami tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mawashi tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Ura tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Tate tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Uchi tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Age tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Yama tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Fura tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Hasami tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Morote tsuki', 1, 3);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi komi tsuki', 1, 3);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Jun Tsuki', 1, 3);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Jun tsuki', 1, 3);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Nukite uchi', 1, 4);     -- Tekniikat - Laji 4 iskut
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Tetsui uchi jodan', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Uraken uchi', 1, 4);
