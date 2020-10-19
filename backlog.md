@@ -1,9 +1,9 @@
 # Kehitysjono
 
 - [x] Suunnittele tietokannan rakenne (valmistunut 15.10.2020)
-- [ ] Luo omat tiedostot taulujen luomiselle ja testidatan syöttämiselle
-- [ ] Luo tietokannat taulut
-- [ ] Lisää tauluihin dataa
+- [x] Luo tietokannat taulut (valmistunut 19.10.2020)
+- [x] Lisää tauluihin dataa: tekniikat (valmistunut 19.10.2020)
+- [ ] Lisää tauluihin dataa: vyökoevaatimukset
 - [ ] Kirjoita käyttötapaukset
 - [ ] Suunnittele haun toiminnallisuus
 - [ ] Suunnittele sovelluksen rakenne
