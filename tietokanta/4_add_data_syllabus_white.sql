@@ -25,6 +25,6 @@ INSERT INTO VyokoevaatimuksenKata (vyokoevaatimus, kata, lisatieto) VALUES (1, 1
 INSERT INTO VyokoevaatimuksenKata (vyokoevaatimus, kata, lisatieto) VALUES (1, 2, NULL);
 INSERT INTO VyokoevaatimuksenKata (vyokoevaatimus, kata, lisatieto) VALUES (1, 3, NULL);
 
-INSERT INTO VyokoevaatimuksenKumite (vyokoevaatimus, kumite, hyokkaustekniikka, puolustustekniikka, lisatieto) VALUES (1, 1, 75, 5, NULL);
-INSERT INTO VyokoevaatimuksenKumite (vyokoevaatimus, kumite, hyokkaustekniikka, puolustustekniikka, lisatieto) VALUES (1, 1, 76, 6, NULL);
-INSERT INTO VyokoevaatimuksenKumite (vyokoevaatimus, kumite, hyokkaustekniikka, puolustustekniikka, lisatieto) VALUES (1, 1, 75, 7, NULL);
+INSERT INTO VyokoevaatimuksenKumite (vyokoevaatimus, kumite, hyokkaystekniikka, puolustustekniikka, lisatieto) VALUES (1, 1, 75, 5, NULL);
+INSERT INTO VyokoevaatimuksenKumite (vyokoevaatimus, kumite, hyokkaystekniikka, puolustustekniikka, lisatieto) VALUES (1, 1, 76, 6, NULL);
+INSERT INTO VyokoevaatimuksenKumite (vyokoevaatimus, kumite, hyokkaystekniikka, puolustustekniikka, lisatieto) VALUES (1, 1, 75, 7, NULL);

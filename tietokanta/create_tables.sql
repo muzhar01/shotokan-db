@@ -67,7 +67,7 @@ CREATE TABLE VyokoevaatimuksenKata (
 CREATE TABLE VyokoevaatimuksenKumite (
     id INTEGER PRIMARY KEY,
     vyokoevaatimus INTEGER REFERENCES Vyokoevaatimus,
-    kumitetyyppi INTEGER REFERENCES KumiteTyyppi,
+    kumite INTEGER REFERENCES KumiteTyyppi,
     hyokkaystekniikka INTEGER REFERENCES Tekniikka,
     puolustustekniikka INTEGER REFERENCES YhdistelmaTekniikka,
     lisatieto TEXT
