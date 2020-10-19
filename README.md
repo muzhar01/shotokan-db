@@ -21,14 +21,11 @@ Lisäksi luodaan käyttöliittymä, jonka avulla käyttäjä voi hakea tietokann
 - tietoa, missä [Seitokain](http://seitokai.eu/) vyökoevaatimuksissa kyseinen tekniikka esiintyy ylipäätään tai esiintyy ensimmäisen kerran
 - tietoa [Seitokain](http://seitokai.eu/) vyökoevaatimuksista valkoisesta vyöstä mustaan vyöhön
 
-Esimerkki vyökoevaatimuksesta, jonka tietoja voi hakea käyttöliittymällä:
+## Backlog ja välitavoitteet
 
-![Vyökoevaatimus](kuvat/esim1.png "Vyökoevaatimus")
-![Vyökoevaatimus](kuvat/esim2.png "Vyökoevaatimus")
+Projekti aloitettu 7.10.2020, tehty noin 15 min per päivä. Projektin [kehitysjono](backlog.md).
 
-## Välitavoitteet
-
-Projekti aloitettu 7.10.2020, tehty noin 15 min per päivä. Välitavoitteet:
+Välitavoitteet:
 
 - Tietokanta [kuva tiedostona](kuvat/) valmis 15.10.2020
 - Tietokanta luotu skriptinä
@@ -41,3 +38,10 @@ Projekti aloitettu 7.10.2020, tehty noin 15 min per päivä. Välitavoitteet:
 - Käyttöliittymä testattu
 - Sovellus viety palvelimelle
 - Sovelluksen toiminta testattu palvelimella
+
+## Esimerkit
+
+Esimerkki vyökoevaatimuksesta, jonka tietoja voi hakea käyttöliittymällä:
+
+![Vyökoevaatimus](kuvat/esim1.png "Vyökoevaatimus")
+![Vyökoevaatimus](kuvat/esim2.png "Vyökoevaatimus")
