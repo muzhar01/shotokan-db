@@ -1,6 +1,6 @@
 # Kehitysjono
 
-- [x] Suunnittele tietokannan rakenne
+- [x] Suunnittele tietokannan rakenne (valmistunut 15.10.2020)
 - [ ] Luo omat tiedostot taulujen luomiselle, testidatan syöttämiselle ja taulujen poistamiselle
 - [ ] Luo tietokannat taulut
 - [ ] Lisää tauluihin dataa

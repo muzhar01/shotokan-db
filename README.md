@@ -28,8 +28,7 @@ Projekti aloitettu 7.10.2020, tehty noin 15 min per päivä. Projektin [kehitysj
 Välitavoitteet:
 
 - Tietokanta [kuva tiedostona](kuvat/) valmis 15.10.2020
-- Tietokanta luotu skriptinä
-- Tietokantaan lisätty tarvittava data skriptinä
+- Tietokanta luotu ja tarvittava data skriptinä lisätty
 - Tietokanta testattu
 - Käyttötapaukset kirjoitettu
 - Käyttötapauksia varten tarvittavat tietokantakyselyt luotu
