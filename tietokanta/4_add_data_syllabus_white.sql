@@ -1,4 +1,4 @@
--- VALKOINEN
+-- VALKOINEN VYÖ
 INSERT INTO VyokoevaatimuksenTekniikka (vyokoevaatimus, tekniikka) VALUES (1, 25);
 INSERT INTO VyokoevaatimuksenTekniikka (vyokoevaatimus, tekniikka) VALUES (1, 26);
 INSERT INTO VyokoevaatimuksenTekniikka (vyokoevaatimus, tekniikka) VALUES (1, 27);

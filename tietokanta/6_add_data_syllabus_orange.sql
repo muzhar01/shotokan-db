@@ -1,4 +1,4 @@
--- ORANSSI
+-- ORANSSI VYÖ
 INSERT INTO VyokoevaatimuksenTekniikka (vyokoevaatimus, tekniikka) VALUES (3, 36);
 INSERT INTO VyokoevaatimuksenTekniikka (vyokoevaatimus, tekniikka) VALUES (3, 53);
 INSERT INTO VyokoevaatimuksenTekniikka (vyokoevaatimus, tekniikka) VALUES (3, 38);
