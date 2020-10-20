@@ -172,7 +172,7 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Tani otoshi', 2, 9)
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Ude wa', 2, 9)
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Saka tsuchi', 2, 9)
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Yori ashi osae uke uraken uchi', 2, 8);     -- Tekniikat - Laji 8 Useampi tekniikka nopeasti tehtävänä yhdistelmänä
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Yori ashi osae uke uraken uchi', 2, 8);  -- Tekniikat - Laji 8 Useampi tekniikka nopeasti tehtävänä yhdistelmänä
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Age uke tsukami', 2, 8);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Yoko empi uraken uchi', 2, 8);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Uchi uke kisami tsuki', 2, 8);

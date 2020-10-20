@@ -17,3 +17,4 @@ INSERT INTO  YhdistelmaTekniikka (tekniikka1, tekniikka2, tekniikka3) VALUES (12
 INSERT INTO  YhdistelmaTekniikka (tekniikka1, tekniikka2, tekniikka3) VALUES (176, 66, NULL);
 INSERT INTO  YhdistelmaTekniikka (tekniikka1, tekniikka2, tekniikka3) VALUES (175, 67, NULL);
 INSERT INTO  YhdistelmaTekniikka (tekniikka1, tekniikka2, tekniikka3) VALUES (30, 8, 89);
+INSERT INTO  YhdistelmaTekniikka (tekniikka1, tekniikka2, tekniikka3) VALUES (NULL, NULL, NULL);
