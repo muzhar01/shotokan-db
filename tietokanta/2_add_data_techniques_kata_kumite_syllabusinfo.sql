@@ -39,7 +39,6 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Empi uke chudan', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Juji uke jodan', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Juji uke gedan', 1, 2);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Shuto uke gedan', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Kakiwake uke', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Manji uke', 1, 2);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Haishu uke jodan', 1, 2);
@@ -87,6 +86,7 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Oi komi tsuki', 1, 3);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Jun tsuki', 1, 3);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Nukite uchi', 1, 4);     -- Tekniikat - Laji 4 iskut
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku nukite uchi', 1, 4);     -- Tekniikat - Laji 4 iskut
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Tetsui uchi jodan', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Uraken uchi', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Shuto uchi jodan', 1, 4);
@@ -107,6 +107,7 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Ushiro empi uchi', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Haito uchi', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku haito uchi jodan', 1, 4);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku shuto uchi jodan', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Ippon ken uchi', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Gyaku ippon ken uchi', 1, 4);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Nakadaka ken uchi', 1, 4);
@@ -120,6 +121,7 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mae geri kekomi', 1, 5);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mae geri kekomi chudan', 1, 5);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mawashi geri keage', 1, 5);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mawashi geri keage jodan', 1, 5);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mawashi geri kekomi', 1, 5);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Mawashi geri jodan', 1, 5);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Yoko geri keage', 1, 5);
@@ -149,7 +151,7 @@ INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUE
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Sosoku geri', 1, 6);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('Askel eteen', 'Ayumi ashi', 1, 7);     -- Tekniikat - Laji 7 liikkuminen
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('Askel taakse', 'Hiki ashi', 1, 7);
-INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('Käännös ympäri', 'Mawate', 1, 7);
+INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('180 asteen käännös ympäri', 'Mawate', 1, 7);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Okuri ashi', 1, 7);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Kakiwake ashi', 1, 7);
 INSERT INTO Tekniikka (nimi_FI, nimi_JP, tekniikan_tyyppi, tekniikan_laji) VALUES ('', 'Yori ashi', 1, 7);
@@ -199,7 +201,7 @@ INSERT INTO Kata (nimi_JP) VALUES ('Empi');
 INSERT INTO Kata (nimi_JP) VALUES ('Gankaku');
 INSERT INTO Kata (nimi_JP) VALUES ('Gojushiho Dai');
 INSERT INTO Kata (nimi_JP) VALUES ('Gojushiho Sho');
-INSERT INTO Kata (nimi_JP) VALUES ('Wankan', 'Wankan', 3, 11);
+INSERT INTO Kata (nimi_JP) VALUES ('Wankan', 'Wankan');
 INSERT INTO Kata (nimi_JP) VALUES ('Tekki Shodan');
 INSERT INTO Kata (nimi_JP) VALUES ('Tekki Nidan');
 INSERT INTO Kata (nimi_JP) VALUES ('Tekki Sandan');

@@ -1,9 +1,21 @@
 # Kehitysjono
 
-- [x] Back end: Suunnittele tietokannan rakenne (valmistunut 15.10.2020)
-- [x] Back end: Luo tietokannat taulut (valmistunut 19.10.2020)
-- [x] Back end: Lisää tauluihin dataa - tekniikat (valmistunut 19.10.2020)
+- [x] Back end: Suunnittele tietokannan rakenne (valmis 15.10.2020)
+- [x] Back end: Luo tietokannat taulut (valmis 19.10.2020)
+- [x] Back end: Lisää tauluihin dataa - tekniikat (valmis 19.10.2020)
 - [ ] Back end: Lisää tauluihin dataa - vyökoevaatimukset
+  - [x] Valkoinen (valmis 20.10.2020)
+  - [x] Keltainen (valmis 20.10.2020)
+  - [x] Oranssi (valmis 20.10.2020)
+  - [ ] Vihreä
+  - [ ] Sininen
+  - [ ] Punainen
+  - [ ] Ruskea 3.
+  - [ ] Ruskea 2.
+  - [ ] Ruskea 1.
+  - [ ] Musta 1.
+  - [ ] Musta 2.
+  - [ ] Musta 3. 
 - [ ] Määrittely: Kirjoita käyttötapaukset
 - [ ] Määrittely: Suunnittele haun toiminnallisuus
 - [ ] Määrittely: Suunnittele sovelluksen rakenne
