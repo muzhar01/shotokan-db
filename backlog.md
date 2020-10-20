@@ -7,7 +7,7 @@
   - [x] Valkoinen (valmis 20.10.2020)
   - [x] Keltainen (valmis 20.10.2020)
   - [x] Oranssi (valmis 20.10.2020)
-  - [ ] Vihreä
+  - [x] Vihreä (valmis 20.10.2020)
   - [ ] Sininen
   - [ ] Punainen
   - [ ] Ruskea 3.
