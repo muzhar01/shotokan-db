@@ -1,17 +1,17 @@
 # Shotokan db
 
-Tässä projektissa luodaan tietokanta, joka sisältää kaikki Shotokan-tyylisuunnan karatessa harjoiteltavat asiat:
+Tässä projektissa luodaan tietokanta, joka sisältää kaikki [Shotokan](https://en.wikipedia.org/wiki/Shotokan)-tyylisuunnan karatessa harjoiteltavat asiat:
 
-- seisonnat
-- torjunnat
-- lyönnit
-- iskut
-- potkut
-- liikkuminen
-- yhdistelmätekniikat
-- katat
-- kumite
-- murskaus
+- torjunnat - _uke waza_
+- lyönnit - _tsuki waza_
+- iskut - _uchi waza_
+- potkut - _geri waza_
+- liikkuminen - _ashi_
+- yhdistelmätekniikat - _renraku waza_
+- heitot - _nage waza_
+- katat - _kata_
+- kumite - _kumite_
+- murskaus - _tameshiwari_
 
 Lisäksi luodaan käyttöliittymä, jonka avulla käyttäjä voi hakea tietokannasta:
 
