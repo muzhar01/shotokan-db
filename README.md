@@ -13,7 +13,7 @@ Tässä projektissa luodaan tietokanta, joka sisältää kaikki [Shotokan](https
 - kumite - _kumite_
 - murskaus - _tameshiwari_
 
-Lisäksi luodaan käyttöliittymä, jonka avulla käyttäjä voi hakea tietokannasta:
+Lisäksi kirjoitetaan käyttäjätarinat ja luodaan käyttöliittymä, jonka avulla käyttäjä voi hakea tietokannasta:
 
 - tiettyä tekniikkaa suomeksi tai japaniksi
 - tietoa, missä katoissa kyseinen tekniikka esiintyy
@@ -27,11 +27,11 @@ Projekti aloitettu 7.10.2020, tehty noin 15 min per päivä. Projektin [kehitysj
 
 Välitavoitteet:
 
-- Tietokanta [kuva tiedostona](kuvat/) valmis 15.10.2020
+- Tietokanta [kuva tiedostona](kuvat/) (valmis 15.10.2020)
 - Tietokanta luotu ja tarvittava data skriptinä lisätty
 - Tietokanta testattu
-- Käyttötapaukset kirjoitettu
-- Käyttötapauksia varten tarvittavat tietokantakyselyt luotu
+- [Käyttäjätarinat](user_stories.md) kirjoitettu (kesken 21.10.2020)
+- Käyttäjätarinoita varten tarvittavat tietokantakyselyt luotu
 - Käyttöliittymä suunniteltu
 - Käyttöliittymä toteutettu
 - Käyttöliittymä testattu
