@@ -1,6 +1,6 @@
 # Käyttäjätarinat
 
-## Tekniikkahaku
+## Tekniikkahaku (3 tarinaa)
 
 ### Ominaisuus: Käyttäjänä haluan hakea tiettyä suomenkielistä karatetekniikkaa ja sen japaninkielistä vastinetta
 
@@ -48,7 +48,7 @@ When valitsen hakurajaukseksi ensin "Kata" ja sitten "Näytä kaikki" ja painan 
 Then näen hakurajauksen mukaisesti kaikki tietokantaan tallennetut katat.
 ```
 
-## Vyökoevaatimushaku
+## Vyökoevaatimushaku (6 tarinaa)
 
 ### Ominaisuus: Käyttäjänä haluan nähdä valitsemani vyökoevaatimuksen tiedot ja kaikki tekniikat
 
